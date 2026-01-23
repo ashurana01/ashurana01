@@ -1,29 +1,56 @@
+<h1 align="center">Hi, I'm Ashu Rana 👋</h1>
+<h3 align="center">Developer | Founder of HyperScripts | FiveM & Web Systems Builder</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ba7PuqXgBZ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@hyperscriptss) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hyperscripts0&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hyperscripts0&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hyperscripts0&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<p align="center">
+  <a href="https://hyperscriptss.tebex.io/"><img src="https://img.shields.io/badge/Tebex-HyperScripts-blue?style=for-the-badge"></a>
+  <img src="https://img.shields.io/badge/Location-India-success?style=for-the-badge">
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🧠 About Me
+
+- 🔧 Full-stack developer & FiveM system designer  
+- 🏗️ Building tools, scripts, and digital products  
+- 🚀 Founder of **HyperScripts**  
+- 💡 Focus: performance, clean UI, scalable systems  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hyperscripts0&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=hyperscripts0&icon=4&color=3)](https://visitcount.itsvg.in)
 
-----
+### 🛠️ Tech Stack
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hyperscripts) 
-  
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,nextjs,html,css,mysql,git,linux" />
+</p>
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+### 🔥 Featured Work
+
+- 🚗 FiveM Advanced Systems  
+- 🎮 Custom UI & HUD Frameworks  
+- ⚙️ Tools & Converters Platform  
+- 🛒 Tebex Store – HyperScripts  
+
+---
+
+### 🌐 Links
+
+- 🛒 Store: https://hyperscriptss.tebex.io/  
+- 💬 Discord: https://discord.gg/tYHQJJTtzs  
+- ▶️ YouTube: https://www.youtube.com/@HorizonStudiosStore  
+
+---
+
+<p align="center">
+  <i>“Build systems that don’t break.”</i>
+</p>
