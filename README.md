@@ -1,105 +1,82 @@
-<!-- CRAZY ELITE GITHUB PROFILE -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:203a43&height=200&section=header&text=HYPERSCRIPTS&fontSize=50&fontColor=58a6ff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:121212,100:32CD32&height=220&section=header&text=HYPERSCRIPTS&fontSize=70&fontColor=ffffff&fontAlign=50&animation=fadeIn&fontAlignY=35" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Founder+%40+HyperScripts;FiveM+Systems+Architect;Full+Stack+Product+Engineer;Building+High+Performance+Systems" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&pause=1000&color=32CD32&center=true&vCenter=true&width=600&lines=Founder+of+HyperScripts;Building+HindRP+2.0+%26+VEER+AI;Crafting+Advanced+FiveM+Experiences;Full+Stack+Engineer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://hyperscriptss.tebex.io/">
-    <img src="https://img.shields.io/badge/Tebex-Store-4c5cff?style=for-the-badge&logo=shopify&logoColor=white">
+    <img src="https://img.shields.io/badge/STORE-Hyperscripts-32CD32?style=for-the-badge&logo=shopify&logoColor=black&labelColor=white" />
   </a>
   <a href="https://discord.com/invite/8P96qagVe3">
-    <img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <img src="https://img.shields.io/badge/COMMUNITY-Discord-32CD32?style=for-the-badge&logo=discord&logoColor=black&labelColor=white" />
   </a>
   <a href="https://www.youtube.com/@hyperscriptss">
-    <img src="https://img.shields.io/badge/YouTube-HyperScripts-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+    <img src="https://img.shields.io/badge/WATCH-YouTube-32CD32?style=for-the-badge&logo=youtube&logoColor=black&labelColor=white" />
   </a>
 </p>
 
----
+<br>
 
-## 🧠 SYSTEM PROFILE
-
-```yaml
-Name: Ashu Rana
-Alias: Shadow
-Role: Founder & Systems Engineer
-Company: HyperScripts
-Focus: FiveM | Backend | Products | Performance
-```
-
----
-
-## ⚙️ CORE CAPABILITIES
-
-```text
-▣ FiveM Server Architecture        ███████████  EXPERT
-▣ Backend APIs & Databases         ██████████░  ADVANCED
-▣ UI / HUD Frameworks              █████████░░  ADVANCED
-▣ Product Engineering              ███████████  EXPERT
-▣ Performance Optimization         ███████████  EXPERT
-```
-
----
-
-## 🛠️ TECH ARSENAL
+<h2 align="center">👋 About Me</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,nodejs,react,nextjs,html,css,mysql,git,linux,redis,docker&perline=7" />
+  I am <strong>Ashu Rana</strong>, a Systems Engineer and Founder based in India. <br>
+  I specialize in building high-performance <strong>FiveM Frameworks</strong> and <strong>Web Applications</strong>. <br>
+  Currently, I am focused on launching <strong>HindRP 2.0</strong> and developing the <strong>VEER Voice Intelligence</strong> system.
 </p>
 
 ---
 
-## 📊 LIVE SYSTEM METRICS
+<h2 align="center">🚀 Active Projects</h2>
+
+<table align="center" width="100%" style="border:0;">
+  <tr>
+    <td width="33%" align="center">
+      <h3>🎮 HindRP 2.0</h3>
+      <p><strong>Roleplay Framework</strong></p>
+      <p>A next-gen FiveM server with custom rental logic, garage systems, and optimized UI.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🤖 VEER AI</h3>
+      <p><strong>Voice Intelligence</strong></p>
+      <p>A personal bilingual AI assistant (Hindi/English) built from scratch with a custom UI.</p>
+    </td>
+    <td width="33%" align="center">
+      <h3>🎵 Asanova Beats</h3>
+      <p><strong>Software Suite</strong></p>
+      <p>Cross-platform software for PC & Mobile with integrated media toolkits.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imrshadow01&show_icons=true&theme=radical&hide_border=true&border_radius=14" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrshadow01&theme=radical&hide_border=true&border_radius=14" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imrshadow01&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://skillicons.dev/icons?i=lua,ts,js,react,nextjs,nodejs,html,css,mysql,git,linux,figma&perline=6&theme=dark" />
 </p>
 
 ---
 
-## 🧬 PRODUCT ZONE
-
-* 🚗 High-performance FiveM core frameworks
-* 🎮 Modular UI & HUD systems
-* ⚙️ Backend dashboards & automation tools
-* 🛒 Tebex-ready commercial assets
-
----
-
-## 🐍 ACTIVITY SNAKE
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imrshadow01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=32CD32&icon_color=32CD32" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrshadow01&theme=dark&hide_border=true&background=0d1117&ring=32CD32&fire=32CD32&currStreakLabel=32CD32" height="160"/>
 </p>
 
 ---
 
-## 🧠 SYSTEM CODE
-
-> Design for scale.
-> Optimize for speed.
-> Ship for production.
-
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imrshadow01&style=for-the-badge&color=blueviolet" />
-</p>
-
-<p align="center">
-  <sub>HyperScripts · FiveM Systems · Product Engineering · India</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:203a43,100:0f2027&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:32CD32,100:121212&height=100&section=footer" width="100%" />
 </p>
