@@ -1,7 +1,7 @@
 <!-- Banner Typing Animation -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Ashu+Rana;Founder+%40+HyperScripts;FiveM+%26+Web+Systems+Engineer;Building+Production-Grade+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Founder+%40+HyperScripts;FiveM+%26+Web+Systems+Engineer;Building+Production-Grade+Systems;Systems+%7C+Products+%7C+Performance" />
 </p>
 
 <p align="center">
