@@ -54,12 +54,6 @@
 <br>
 
 <div align="center">
-  <h2>📊 The Data Stream</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=imrshadow01&show_icons=true&theme=radical&bg_color=0d1117&title_color=8A2BE2&icon_color=8A2BE2&text_color=ffffff&border_color=8A2BE2&hide_border=false" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imrshadow01&theme=radical&background=0d1117&ring=8A2BE2&fire=8A2BE2&currStreakLabel=8A2BE2&border=8A2BE2&hide_border=false" height="180"/>
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
