@@ -1,100 +1,138 @@
 <div align="center">
 
-# Ashu Rana
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=ASHU%20RANA&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Founder&descAlignY=65" />
 
-### Developer • Product Builder • Systems Architect
+</div>
 
-Building premium digital products, scalable systems, immersive experiences, and AI-powered tools.
+<div align="center">
 
-<br>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI-Builder-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FiveM-Developer-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SaaS-Founder-black?style=for-the-badge" />
-</p>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Premium+Digital+Products;AI+Systems+Architect;Full+Stack+Developer;FiveM+Experience+Engineer;Turning+Ideas+Into+Products" />
+</a>
 
 </div>
 
 ---
 
-## / about_me
+# ⚡ SYSTEM PROFILE
 
-```ts
-const ashu = {
-  name: "Ashu Rana",
-  role: "Developer / Founder",
-  location: "India",
-  
-  building: [
-    "Premium SaaS products",
-    "AI automation systems",
-    "Immersive FiveM resources",
-    "Advanced backend infrastructures"
-  ],
+```yaml
+identity:
+  name: Ashu Rana
+  role: Founder / Developer
+  origin: India
+  mission: Build world-class digital products.
 
-  philosophy: "Build things that actually matter.",
+specialization:
+  - Full Stack Engineering
+  - AI Product Development
+  - SaaS Infrastructure
+  - FiveM Advanced Systems
+  - Premium UI/UX Architecture
 
-  currentlyLearning: [
-    "AI product architecture",
-    "scalable distributed systems",
-    "advanced UI/UX engineering"
-  ]
-};
+current_state:
+  mode: shipping
+  caffeine: critical
+  bugs: inevitable
 ```
 
 ---
 
-## / tech_stack
+# 🧠 TECH ARSENAL
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,lua,python,vscode" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,lua,python,cloudflare" />
 
 </div>
 
 ---
 
-## / current_projects
-
-### Xyron
-Premium immersive systems engineered for next-generation FiveM experiences.
-
-### Tixora
-AI-first SaaS ecosystem focused on automation, tools, and scalable digital infrastructure.
-
-### Internal Labs
-Experimental products, architecture concepts, automation workflows, and startup prototypes.
-
----
-
-## / github_activity
+# 📊 LIVE METRICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
+<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
 ---
 
-## / mindset
+# 🚀 ACTIVE PROJECTS
 
-> Great products are not built by adding everything.  
-> They're built by removing what doesn't belong.
+<table>
+<tr>
+<td width="50%">
+
+## XYRON
+Premium immersive FiveM systems.
+
+- advanced rentals
+- cinematic UI
+- modular architecture
+- AAA gameplay systems
+
+</td>
+
+<td width="50%">
+
+## TIXORA
+AI-first SaaS ecosystem.
+
+- automation tools
+- smart infrastructure
+- scalable products
+- AI integrations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## / connect
+# 🏆 CONTRIBUTION GRID
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](YOUR_DISCORD_LINK)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+
+</div>
+
+---
+
+# 🐍 ACTIVITY FLOW
+
+<div align="center">
+
+<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/YOUR_HANDLE">
+<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="YOUR_DISCORD_LINK">
+<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
 
 </div>
 
@@ -102,6 +140,8 @@ Experimental products, architecture concepts, automation workflows, and startup 
 
 <div align="center">
 
-### Code. Build. Scale.
+## "I don't just write code. I build systems."
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:161B22" />
