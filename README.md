@@ -1,96 +1,83 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D1117,100:161B22&text=ASHU%20RANA&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Developer%20•%20Builder%20•%20Founder&descAlignY=65" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&text=ASHU%20RANA&fontSize=70&fontAlignY=40&animation=twinkling&color=gradient&desc=Developer%20%7C%20Founder%20%7C%20Systems%20Architect&descAlignY=60" />
 
-</div>
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=850&lines=Building+Premium+Digital+Products;AI+Systems+Architect;Full+Stack+Developer;FiveM+Experience+Engineer;Turning+Ideas+Into+Products" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=INITIALIZING+ASHU+RANA...;FULL+STACK+ENGINEER;AI+PRODUCT+BUILDER;FIVEM+SYSTEMS+ARCHITECT;BUILDING+THE+FUTURE" />
 
 </div>
 
 ---
 
-# ⚡ SYSTEM PROFILE
+<div align="center">
 
-```yaml
-identity:
-  name: Ashu Rana
-  role: Founder / Developer
-  origin: India
-  mission: Build world-class digital products.
+```bash
+> whoami
+Ashu Rana
 
-specialization:
-  - Full Stack Engineering
-  - AI Product Development
-  - SaaS Infrastructure
-  - FiveM Advanced Systems
-  - Premium UI/UX Architecture
+> role
+Developer / Founder / Product Architect
 
-current_state:
-  mode: shipping
-  caffeine: critical
-  bugs: inevitable
+> mission
+Build insane digital products that people actually use.
+
+> status
+Shipping.
 ```
 
+</div>
+
 ---
 
-# 🧠 TECH ARSENAL
+# ⚡ TECH MATRIX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,lua,python,cloudflare" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,lua,python,postgres,mysql,redis,docker,git,github,cloudflare,figma,vscode" />
 
 </div>
 
 ---
 
-# 📊 LIVE METRICS
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" />
-
-<img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" />
-
-</div>
-
----
-
-# 🚀 ACTIVE PROJECTS
+# 🧠 SYSTEM CORE
 
 <table>
 <tr>
 <td width="50%">
 
-## XYRON
-Premium immersive FiveM systems.
+### CURRENT OPS
 
-- advanced rentals
-- cinematic UI
-- modular architecture
-- AAA gameplay systems
+```yaml
+focus:
+  - AI Products
+  - SaaS Systems
+  - FiveM Premium Resources
+  - Backend Architecture
+  - UI/UX Engineering
+
+mode: BUILD
+energy: HIGH
+sleep: OPTIONAL
+```
 
 </td>
 
 <td width="50%">
 
-## TIXORA
-AI-first SaaS ecosystem.
+### ACTIVE PROJECTS
 
-- automation tools
-- smart infrastructure
-- scalable products
-- AI integrations
+```yaml
+xyron:
+  status: evolving
+  type: premium FiveM ecosystem
+
+tixora:
+  status: scaling
+  type: AI SaaS infrastructure
+
+labs:
+  status: unstable
+  type: experimental madness
+```
 
 </td>
 </tr>
@@ -98,40 +85,78 @@ AI-first SaaS ecosystem.
 
 ---
 
-# 🏆 CONTRIBUTION GRID
+# 📊 LIVE TELEMETRY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=github_dark" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=ashurana01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=ashurana01&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashurana01&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🐍 ACTIVITY FLOW
+# 🏆 ACHIEVEMENT SYSTEM
 
 <div align="center">
 
-<img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=ashurana01&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 </div>
 
 ---
 
-# 🌐 CONNECT
+# 📈 ACTIVITY SIGNAL
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashurana01&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION EVOLUTION
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ashurana01/ashurana01/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+# 🌌 DIGITAL FOOTPRINT
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ashurana01&label=PROFILE+VISITORS&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 🌐 CONNECT NODE
+
+<div align="center">
+
+<a href="https://github.com/ashurana01">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://x.com/YOUR_HANDLE">
-<img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white"/>
+<a href="https://x.com/YOURHANDLE">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <a href="YOUR_DISCORD_LINK">
-<img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
 </div>
@@ -140,8 +165,8 @@ AI-first SaaS ecosystem.
 
 <div align="center">
 
-## "I don't just write code. I build systems."
+# "CODE. BUILD. DOMINATE."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=gradient" />
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0D1117,100:161B22" />
