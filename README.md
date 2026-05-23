@@ -1,40 +1,47 @@
 <div align="center">
 
-<svg width="100%" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="520" viewBox="0 0 1400 520" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0b1020"/>
-      <stop offset="50%" stop-color="#111827"/>
-      <stop offset="100%" stop-color="#050816"/>
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="40%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#000000"/>
     </linearGradient>
 
-    <linearGradient id="glow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="50%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#ec4899"/>
     </linearGradient>
 
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="0" stdDeviation="12" flood-color="#7c3aed"/>
+    <filter id="glow">
+      <feDropShadow dx="0" dy="0" stdDeviation="15" flood-color="#7c3aed"/>
     </filter>
   </defs>
 
-  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1400" height="520" fill="url(#bg)"/>
 
-  <circle cx="150" cy="80" r="100" fill="#7c3aed" opacity="0.08"/>
-  <circle cx="1040" cy="220" r="140" fill="#06b6d4" opacity="0.06"/>
+  <circle cx="250" cy="120" r="180" fill="#7c3aed" opacity="0.05"/>
+  <circle cx="1150" cy="380" r="220" fill="#06b6d4" opacity="0.04"/>
 
-  <rect x="80" y="70" width="1040" height="180" rx="24" fill="#0d1324" stroke="rgba(255,255,255,0.08)"/>
+  <line x1="150" y1="90" x2="1250" y2="90" stroke="#ffffff" opacity="0.08"/>
+  <line x1="150" y1="430" x2="1250" y2="430" stroke="#ffffff" opacity="0.08"/>
 
-  <text x="600" y="140" text-anchor="middle" fill="white" font-size="56" font-family="Arial" font-weight="700">
+  <text x="700" y="210" text-anchor="middle" fill="white" font-size="78" font-family="Arial" font-weight="700">
     ASHU RANA
   </text>
 
-  <text x="600" y="185" text-anchor="middle" fill="#94a3b8" font-size="20" font-family="Arial">
-    Founder • Developer • Product Architect
+  <text x="700" y="270" text-anchor="middle" fill="#94a3b8" font-size="22" font-family="Arial">
+    FOUNDER • PRODUCT ARCHITECT • DIGITAL BUILDER
   </text>
 
-  <rect x="420" y="215" width="360" height="8" rx="999" fill="url(#glow)" filter="url(#shadow)"/>
+  <text x="700" y="340" text-anchor="middle" fill="white" font-size="32" font-family="Arial" font-weight="600">
+    SOME PEOPLE WRITE CODE.
+  </text>
+
+  <text x="700" y="385" text-anchor="middle" fill="url(#accent)" font-size="32" font-family="Arial" font-weight="700" filter="url(#glow)">
+    OTHERS BUILD WORLDS.
+  </text>
 </svg>
 
 </div>
@@ -43,142 +50,99 @@
 
 <div align="center">
 
-# Building products people remember.
+# BUILDING CINEMATIC DIGITAL EXPERIENCES
 
-**AI • SaaS • FiveM Systems • Product Engineering**
+*AI Systems • SaaS Products • FiveM Worlds • Product Engineering*
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%">
+<br>
 
-## About
-
-Ashu Rana is a developer focused on crafting premium software products, immersive digital systems, and scalable architectures.
-
-Blending engineering with design to build software that actually feels premium.
-
-</td>
-
-<td width="50%">
-
-## Focus
-
-- Premium SaaS Products
-- AI Systems
-- Full Stack Architecture
-- FiveM Ecosystems
-- Product UX Engineering
-- Experimental Product Labs
-
-</td>
-</tr>
-</table>
-
----
-
-# Featured Ventures
+<div align="center">
 
 <table>
 <tr>
 <td width="33%" align="center">
 
-### XYRON
+## XYRON
 
-Premium immersive systems  
-cinematic experiences  
-advanced gameplay infrastructure
-
-</td>
-
-<td width="33%" align="center">
-
-### TIXORA
-
-AI-powered products  
-automation ecosystems  
-scalable digital infrastructure
+Premium immersive ecosystems.  
+AAA-inspired systems.  
+Cinematic interaction design.
 
 </td>
 
 <td width="33%" align="center">
 
-### LABS
+## TIXORA
 
-experimental concepts  
-future startup ideas  
-product R&D madness
+AI-first product infrastructure.  
+Automation systems.  
+Scalable digital architecture.
+
+</td>
+
+<td width="33%" align="center">
+
+## LABS
+
+Experimental product concepts.  
+Advanced tooling.  
+Future startup prototypes.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-# Technology Stack
+<br>
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript)
-![Node](https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js)
-![Tailwind](https://img.shields.io/badge/Tailwind-111827?style=for-the-badge&logo=tailwind-css)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python)
-![Lua](https://img.shields.io/badge/Lua-111827?style=for-the-badge&logo=lua)
-![Postgres](https://img.shields.io/badge/Postgres-111827?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker)
+# TECH ARSENAL
+
+<br>
+
+![TypeScript](https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Node](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=white)
+![Next](https://img.shields.io/badge/NEXT.JS-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/LUA-000000?style=for-the-badge&logo=lua&logoColor=white)
+![Postgres](https://img.shields.io/badge/POSTGRES-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
 ---
 
-# Mindset
+<br>
 
 <div align="center">
 
-### Beautiful software wins.  
-### Fast software scales.  
-### Memorable software survives.
-
-</div>
-
----
-
-# GitHub Presence
-
-<div align="center">
-
-<a href="https://github.com/ashurana01">
-<img src="https://img.shields.io/badge/ashurana01-111827?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<svg width="100%" height="180" viewBox="0 0 1200 180" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="220" viewBox="0 0 1400 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="footerGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#7c3aed"/>
       <stop offset="50%" stop-color="#06b6d4"/>
       <stop offset="100%" stop-color="#ec4899"/>
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="180" rx="20" fill="#0b1020"/>
-  <path d="M0 130 Q300 60 600 110 T1200 90" stroke="url(#footerGlow)" stroke-width="4" fill="none"/>
+  <rect width="1400" height="220" fill="#020617"/>
 
-  <text x="600" y="90" text-anchor="middle" fill="white" font-size="30" font-family="Arial" font-weight="700">
-    CODE • DESIGN • BUILD
+  <path d="M0 150 Q350 60 700 140 T1400 120" stroke="url(#footer)" stroke-width="5" fill="none"/>
+
+  <text x="700" y="95" text-anchor="middle" fill="white" font-size="34" font-family="Arial" font-weight="700">
+    SOFTWARE • SYSTEMS • EXPERIENCES
   </text>
 
-  <text x="600" y="125" text-anchor="middle" fill="#94a3b8" font-size="16" font-family="Arial">
+  <text x="700" y="145" text-anchor="middle" fill="#94a3b8" font-size="18" font-family="Arial">
     github.com/ashurana01
   </text>
 </svg>
