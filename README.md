@@ -1,62 +1,115 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,48,50,150&height=250&section=header&text=ASHU%20RANA&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Founder%20%40%20HyperScripts&descSize=25&descAlignY=60&descAlign=50" width="100%" />
-</div>
+<h1 align="center">⚡ Ashu Rana</h1>
+<h3 align="center">Developer • Builder • Founder</h3>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Architecting+HindRP+2.0;Building+VEER+Voice+Intelligence;Creator+of+Asanova+Beats;FiveM+%26+Full-Stack+Developer" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  Building premium digital products, immersive systems, and AI-powered experiences.
+</p>
 
-<div align="center">
-  <a href="https://hyperscriptss.tebex.io/">
-    <img src="https://img.shields.io/badge/STORE-Hyperscripts-8A2BE2?style=for-the-badge&logo=shopify&logoColor=white" />
-  </a>
-  <a href="https://discord.com/invite/8P96qagVe3">
-    <img src="https://img.shields.io/badge/DISCORD-Join_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/@hyperscriptss">
-    <img src="https://img.shields.io/badge/YOUTUBE-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;FiveM+Systems+Architect;AI+Product+Builder;Creating+Premium+Digital+Experiences" />
+</p>
 
 ---
 
-<div align="center">
-  <h2>⚡ Creative Arsenal</h2>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,lua,html,css,nodejs,mysql,git,linux,figma,vscode&perline=13&theme=dark" />
-</div>
+## 🚀 About Me
 
-<br>
+```yaml
+name: Shadow
+role: Developer / Founder
+focus:
+  - SaaS Products
+  - AI Systems
+  - FiveM Premium Resources
+  - Full Stack Applications
+  - UI/UX Experiences
 
-<h2 align="center">🚀 High-Voltage Projects</h2>
+currently_building:
+  - Premium rental ecosystems
+  - AI startup concepts
+  - immersive gaming systems
+  - automation tools
 
-<table align="center" width="100%" style="border:0;">
-  <tr>
-    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #8A2BE2;">
-      <h3 style="color: #8A2BE2;">🎭 HindRP 2.0</h3>
-      <p><strong>FiveM Roleplay Core</strong></p>
-      <p>Custom Rental Logic • Garage Systems • UI/UX Overhaul</p>
-    </td>
-    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #8A2BE2;">
-      <h3 style="color: #8A2BE2;">🎙️ VEER AI</h3>
-      <p><strong>Voice Intelligence</strong></p>
-      <p>Bilingual (Hindi/Eng) Assistant • Custom UI • "Friendly Mode"</p>
-    </td>
-    <td width="33%" align="center" style="background-color: #0d1117; border-radius: 15px; border: 1px solid #8A2BE2;">
-      <h3 style="color: #8A2BE2;">🎧 Asanova Beats</h3>
-      <p><strong>Media Software</strong></p>
-      <p>PC & Mobile App • Media Toolkits • Download Managers</p>
-    </td>
-  </tr>
-</table>
+philosophy:
+  "Build things people actually want."
+```
 
-<br>
+---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</div>
+## 🛠 Tech Stack
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,30,48,50,150&height=120&section=footer" width="100%" />
-</div>
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,vscode,lua,python" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚔ Current Focus
+
+- Building premium FiveM systems
+- Designing cinematic user experiences
+- Exploring AI-first SaaS ideas
+- Scaling product ecosystems
+- Advanced automation infrastructure
+
+---
+
+## 🌌 Projects
+
+### 🚗 Xyron
+Premium immersive FiveM systems with cinematic UX.
+
+### 🤖 Tixora
+AI + SaaS ecosystem focused on automation and smart digital products.
+
+### 🧠 Experimental Lab
+Testing AI concepts, internal tools, and future startup ideas.
+
+---
+
+## 🏆 Philosophy
+
+> Good products aren't built by adding more features.  
+> They're built by removing friction.
+
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+
+  <a href="https://discord.gg/yourinvite">
+    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=8b5cf6&style=flat" />
+</p>
+
+<p align="center">
+  <i>"Code. Design. Build. Repeat."</i>
+</p>
