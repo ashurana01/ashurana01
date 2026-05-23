@@ -1,115 +1,107 @@
-<h1 align="center">⚡ Ashu Rana</h1>
-<h3 align="center">Developer • Builder • Founder</h3>
+<div align="center">
 
-<p align="center">
-  Building premium digital products, immersive systems, and AI-powered experiences.
+# Ashu Rana
+
+### Developer • Product Builder • Systems Architect
+
+Building premium digital products, scalable systems, immersive experiences, and AI-powered tools.
+
+<br>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Builder-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FiveM-Developer-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SaaS-Founder-black?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;FiveM+Systems+Architect;AI+Product+Builder;Creating+Premium+Digital+Experiences" />
-</p>
+</div>
 
 ---
 
-## 🚀 About Me
+## / about_me
 
-```yaml
-name: Shadow
-role: Developer / Founder
-focus:
-  - SaaS Products
-  - AI Systems
-  - FiveM Premium Resources
-  - Full Stack Applications
-  - UI/UX Experiences
+```ts
+const ashu = {
+  name: "Ashu Rana",
+  role: "Developer / Founder",
+  location: "India",
+  
+  building: [
+    "Premium SaaS products",
+    "AI automation systems",
+    "Immersive FiveM resources",
+    "Advanced backend infrastructures"
+  ],
 
-currently_building:
-  - Premium rental ecosystems
-  - AI startup concepts
-  - immersive gaming systems
-  - automation tools
+  philosophy: "Build things that actually matter.",
 
-philosophy:
-  "Build things people actually want."
+  currentlyLearning: [
+    "AI product architecture",
+    "scalable distributed systems",
+    "advanced UI/UX engineering"
+  ]
+};
 ```
 
 ---
 
-## 🛠 Tech Stack
+## / tech_stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,vscode,lua,python" />
+<img src="https://skillicons.dev/icons?i=typescript,javascript,nodejs,react,nextjs,tailwind,postgres,mysql,redis,docker,git,github,figma,lua,python,vscode" />
 
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+</div>
 
 ---
 
-## ⚔ Current Focus
+## / current_projects
 
-- Building premium FiveM systems
-- Designing cinematic user experiences
-- Exploring AI-first SaaS ideas
-- Scaling product ecosystems
-- Advanced automation infrastructure
+### Xyron
+Premium immersive systems engineered for next-generation FiveM experiences.
 
----
+### Tixora
+AI-first SaaS ecosystem focused on automation, tools, and scalable digital infrastructure.
 
-## 🌌 Projects
-
-### 🚗 Xyron
-Premium immersive FiveM systems with cinematic UX.
-
-### 🤖 Tixora
-AI + SaaS ecosystem focused on automation and smart digital products.
-
-### 🧠 Experimental Lab
-Testing AI concepts, internal tools, and future startup ideas.
+### Internal Labs
+Experimental products, architecture concepts, automation workflows, and startup prototypes.
 
 ---
 
-## 🏆 Philosophy
+## / github_activity
 
-> Good products aren't built by adding more features.  
-> They're built by removing friction.
+<div align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" />
 
-## 🌍 Connect
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" />
 
-<p align="center">
-  <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
-
-  <a href="https://discord.gg/yourinvite">
-    <img src="https://img.shields.io/badge/Discord-111111?style=for-the-badge&logo=discord&logoColor=white"/>
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=8b5cf6&style=flat" />
-</p>
+## / mindset
 
-<p align="center">
-  <i>"Code. Design. Build. Repeat."</i>
-</p>
+> Great products are not built by adding everything.  
+> They're built by removing what doesn't belong.
+
+---
+
+## / connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/YOUR_HANDLE)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](YOUR_DISCORD_LINK)
+
+</div>
+
+---
+
+<div align="center">
+
+### Code. Build. Scale.
+
+</div>
